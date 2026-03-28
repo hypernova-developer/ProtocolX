@@ -17,6 +17,7 @@ Compile with any C++17 compliant compiler (e.g., GCC or Clang):
 ```bash
 g++ -O3 protocolx.cpp -o protocolx
 ```
+If you use Windows, you can also download the protocolx.exe file.
 ---
 
 ### 🚀 README: Usage and Examples
