@@ -13,7 +13,7 @@ ProtocolX is designed to transform standard strings into predictable 4-character
 - **CLI Native:** Optimized for terminal-based "Absolute Solver" environments.
 
 ## Installation
-Compile with any C++17 compliant compiler (e.g., GCC or Clang):
+Compile with any C++17 or better compliant compiler (e.g., GCC or Clang):
 ```bash
 g++ -O3 protocolx.cpp -o protocolx
 ```
